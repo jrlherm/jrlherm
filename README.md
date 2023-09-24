@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jean-René Lherm</h1>
 <h3 align="center">A passionate frontend developer from Paris, France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrlherm" alt="jrlherm" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [jrlherm.com](jrlherm.com)
 
 - 💬 Ask me about **React, React Native, Node**
