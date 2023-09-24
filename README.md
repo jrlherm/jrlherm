@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋</h1>
-<h1 align="center">I'm Jean-René Lherm</h1>
+<h1 align="center">Hi 👋, I'm Jean-René Lherm</h1>
 <h3 align="center">A passionate frontend developer from Paris, France</h3>
 
 - 👨‍💻 All of my projects are available at [jrlherm.com](http://jrlherm.com)
