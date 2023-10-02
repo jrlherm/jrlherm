@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, React Native, Node**
 
-- 📫 How to reach me **lherm.jeanrene@gmail.com**
+- 📫 Reach me **lherm.jeanrene@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
