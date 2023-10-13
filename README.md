@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean-René Lherm</h1>
-<h3 align="center">Frontend developer from Paris, France</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&random=false&width=435&lines=Frontend+Developper+from+Paris%2C+France" alt="Typing SVG" /></a></h3>
 
 - 🚀 Currently looking for an internship or a work-study contract. 
 
