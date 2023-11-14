@@ -3,7 +3,7 @@
 
 - 🚀 Currently looking for an internship or a work-study contract. 
 
-- 👨‍💻 All of my projects are available at [jrlherm.com](http://jrlherm.com)
+- 👨‍💻 My projects are available at [jrlherm.com](http://jrlherm.com)
 
 - 💬 Ask me about **React.JS, React Native, CSS & Node.JS**
 
